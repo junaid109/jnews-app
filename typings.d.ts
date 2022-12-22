@@ -1,0 +1,1 @@
+type Category = "All" | "General" | "Business" | "Entertainment" | "Health" | "Science" | "Sports" | "Technology";
